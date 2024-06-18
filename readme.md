@@ -1,18 +1,17 @@
-## 👋 Hi, I'm Raj Motwani!
+## 👋 Hello, I'm Raj Motwani!
 
-📊 I'm a Data Analyst with a knack for turning chaos into clarity using my skills in R, Python, Power BI, and SQL Server Management Studio. I don't just work with data—I delve into it, clean it up, and twist it into revealing powerful insights that help steer strategic decisions.
+📊 As a Data Analyst, I specialize in transforming complex data into clear, actionable insights using tools like R, Python, Power BI, and SQL Server Management Studio. I go beyond simply working with data; I immerse myself in it to clean, analyze, and derive insights that drive strategic decision-making.
 
-#### 📚 I am currently working towards a Master's degree in Information Technology & Analytics at Rutgers Business School in Newark, with an expected graduation date of December 2024.
+#### 📚 Currently, I am pursuing a Master's degree in Information Technology & Analytics at Rutgers Business School, Newark, with an anticipated graduation in December 2024.
 
-### 👩‍💻 Work Experience
+### 🧑‍💻 Professional Experience
 
-At **Rutgers University-Newark (Graduate Assistant)**, I orchestrated orientation programs for 2,000 students, enhancing our administrative insights with advanced Excel and data pipeline strategies. 
+At **Rutgers University-Newark (Graduate Assistant)**, I led the organization of orientation programs for 2,000 students, leveraging advanced Excel techniques and data pipelines to enhance our understanding of student admissions processes.
 
-At **Indus Valley Partners (Associate Data Analyst)**, I developed data pipelines and implemented analytics tools in hedge fund operations, identifying cost-saving opportunities that saved $40,000 and improved operational efficiencies.
+At **Indus Valley Partners (Associate Data Analyst)**, I created data pipelines and utilized analytics tools in hedge fund operations to identify cost-saving measures that saved $40,000 and enhanced operational efficiency.
 
-My tenure at **Accenture (Associate Data Analyst)** involved refining ETL processes for attrition data and enhancing data visualization with Power BI. 
+During my time at **Accenture (Associate Data Analyst)**, I focused on refining ETL processes for attrition data and improved data visualization capabilities using Power BI.
 
-As a **Data Engineering Intern at Trivia Software**, I built a retail management system and an out-of-stock alert system, streamlining inventory management and reducing stockouts.
+While serving as a **Data Engineering Intern at Trivia Software**, I developed a retail management system and implemented an out-of-stock alert system, which greatly improved inventory management and minimized stockouts.
 
-	⁠*Connect with me or learn more about my journey:*
 >🖇️ [LinkedIn](https://www.linkedin.com/in/rajmotwani22/)
