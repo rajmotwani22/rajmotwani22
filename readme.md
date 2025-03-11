@@ -8,9 +8,9 @@
 
 At **Rutgers University-Newark (Graduate Assistant)**, I led the organization of orientation programs for 2,000 students, leveraging advanced Excel techniques and data pipelines to enhance our understanding of student admissions processes.
 
-At **Indus Valley Partners (Associate Analyst and Backend Developer)**, I created data pipelines and utilized analytics tools in hedge fund operations to identify cost-saving measures that saved $40,000 and enhanced operational efficiency.
+At **Indus Valley Partners (Software Engineer)**, I created data pipelines and utilized analytics tools in hedge fund operations to identify cost-saving measures that saved $40,000 and enhanced operational efficiency.
 
-During my time at **Accenture (Associate Data Engineer)**, I focused on refining ETL processes for attrition data and improved data visualization capabilities using Power BI.
+During my time at **Accenture (Data Engineer)**, I focused on refining ETL processes for attrition data and improved data visualization capabilities using Power BI.
 
 While serving as a **Data Engineering Intern at Trivia Software**, I developed a retail management system and implemented an out-of-stock alert system, which greatly improved inventory management and minimized stockouts.
 
